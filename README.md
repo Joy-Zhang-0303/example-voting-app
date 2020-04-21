@@ -17,7 +17,7 @@ The Linux stack uses Python, Node.js, .NET Core (or optionally Java), with Redis
 
 Run in this directory:
 ```
-docker-compose up
+sudo docker-compose up
 ```
 The app will be running at [http://localhost:5000](http://localhost:5000), and the results will be at [http://localhost:5001](http://localhost:5001).
 
